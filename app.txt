@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 메인브랜치
+=======
+쿠폰브랜치
+>>>>>>> coupon
 bbbbbbbbb
 ccc
